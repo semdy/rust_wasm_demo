@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import init, { draw_circle } from 'rust_wasm_project'
+import init, { draw_circle } from 'rust_wasm_demo'
 
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'

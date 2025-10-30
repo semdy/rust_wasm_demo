@@ -14,7 +14,7 @@ importers:
       react-dom:
         specifier: ^19.1.0
         version: 19.2.0(react@19.2.0)
-      rust_wasm_project:
+      rust_wasm_demo:
         specifier: link:../pkg
         version: link:../pkg
     devDependencies:

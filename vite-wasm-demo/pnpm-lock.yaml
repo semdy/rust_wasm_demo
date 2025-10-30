@@ -17,6 +17,9 @@ importers:
       rust_wasm_demo:
         specifier: link:../pkg
         version: link:../pkg
+      rust_wasm_project:
+        specifier: link:../pkg
+        version: link:../pkg
     devDependencies:
       '@eslint/js':
         specifier: ^9.25.0
